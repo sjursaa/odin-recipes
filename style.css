@@ -7,3 +7,10 @@ img {
   height: 800px;
   width: auto;
 }
+
+button,
+button a {
+  background-color: lightpink;
+  color: black;
+  text-decoration: none;
+}
