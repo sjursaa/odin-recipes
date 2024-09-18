@@ -2,3 +2,8 @@
   background-color: lightgreen;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+img {
+  height: 800px;
+  width: auto;
+}
