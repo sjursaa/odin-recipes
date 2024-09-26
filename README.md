@@ -2,6 +2,6 @@
 
 Begrudgingly and hastily thrown together in an evening for the purpose of "not skipping anything".
 
-# TODO
+# Outstanding tasks
 
-[] push to GH, submit solution @ the odin project
+TODO: push to GH, submit solution @ the odin project
